@@ -31,7 +31,7 @@
     "multer": "^1.0.6",
     "parseurl": "^1.3.0",
     "qs": "^5.2.0",
-    "sway": "apigee-127/sway#cda44312846f6ac57f6c584f234bed086908b7aa",
+    "sway": "apigee-127/sway#ee8329540b4c1a279c5077a6937bcd495f085b89",
     "type-is": "^1.6.9"
   },
   "devDependencies": {
